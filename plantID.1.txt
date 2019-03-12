@@ -1,0 +1,341 @@
+Dr. Duke's Phytochemical and Ethnobotanical Databases
+
+     * Search
+
+     * Help
+
+     * About
+
+     * Contact Us
+
+     * Disclaimer
+
+   Loading…
+
+
+   P Abelmoschus esculentus (Malvaceae) PDF
+   ----------------------------------------
+
+   Back to previous
+
+     1. 
+
+       Common name(s)
+
+       Okra
+
+     2. 
+
+       How used
+
+       Food
+
+     3. 
+
+       Data Views Exclude Ubiquitous Chemicals
+
+       Activities: 231
+
+       Chemicals w/Activities: 16
+
+       All Chemicals: 45
+
+       CSV Excel PDF
+
+       Show All Paginate 123Next
+
+       Click on column headings to sort the list on the column
+
+       # Activity
+
+       Chemical
+
+       Part
+
+       Low PPM
+
+       High PPM
+
+       StdDev
+
+       *Reference
+
+       0
+
+       12,13-EPOXYOLEIC-ACID
+
+       Seed
+
+       --
+
+       --
+
+       ANON. 1948-1976. The Wealth of India raw materials. Publications
+       and Information Directorate, CSIR, New Delhi. 11 volumes.
+
+       0
+
+       2-O-(D-GALACTOPYRANOSYLURONIC-ACID)-L-RHAMOSE
+
+       Fruit
+
+       --
+
+       --
+
+       Wealth of India.
+
+       0
+
+       3,5,3'',4',5-PENTAHYDROXY-7-METHOXYFLAVONOL-5'-DIGLUCOSIDE
+
+       Flower
+
+       --
+
+       --
+
+       Wealth of India.
+
+       0
+
+       3-METHYL-1-BUTANOL
+
+       Fruit
+
+       --
+
+       --
+
+       Wealth of India.
+
+       0
+
+       4-O-BETA-D-GALACTOPYRANOSYL-D-GALACTOSE
+
+       Fruit
+
+       --
+
+       --
+
+       Wealth of India.
+
+       0
+
+       9-HEXADECENOIC-ACID
+
+       Seed
+
+       --
+
+       --
+
+       ANON. 1948-1976. The Wealth of India raw materials. Publications
+       and Information Directorate, CSIR, New Delhi. 11 volumes.
+
+       0
+
+       ALPHA-TERPENYL-ACETATE
+
+       Leaf
+
+       --
+
+       --
+
+       Wealth of India.
+
+       0
+
+       ARABINOSE
+
+       Fruit
+
+       --
+
+       180.0
+
+       Wealth of India.
+
+       2
+
+       2
+
+       CAMPESTEROL
+
+       Fruit
+
+       --
+
+       30.0
+
+       -0.4
+
+       Spiller, G. A. 1996 (Spiller, G. A. Ed. 1996. CRC Handbook of
+       Lipids in Human Nutrition. CRC Press. Boca Raton, FL. 233 pp.)
+
+       0
+
+       CARBOHYDRATE
+
+       Fruit
+
+       76300.0
+
+       760000.0
+
+       0.17
+
+       USDA's Ag Handbook 8 and sequelae)
+
+       53
+
+       53
+
+       CITRAL
+
+       Leaf
+
+       --
+
+       --
+
+       Wealth of India.
+
+       53
+
+       53
+
+       CITRAL
+
+       Fruit
+
+       --
+
+       --
+
+       Wealth of India.
+
+       0
+
+       CYANIDIN-3-GLUCOSIDE-4'-GLUCOSIDE
+
+       Flower
+
+       --
+
+       --
+
+       Rizk, A.F.M. and Al-Nowaihi, A.S., The Phytochemistry of the
+       Horticultural Plants of Qatar, Scientific and Applied Research
+       Centre, University of Qatar.
+
+       0
+
+       CYANIDIN-3-SAMBUBIOSIDE
+
+       Flower
+
+       --
+
+       --
+
+       Wealth of India.
+
+       0
+
+       CYANIDIN-4'-GLUCOSIDE
+
+       Flower
+
+       --
+
+       --
+
+       Rizk, A.F.M. and Al-Nowaihi, A.S., The Phytochemistry of the
+       Horticultural Plants of Qatar, Scientific and Applied Research
+       Centre, University of Qatar.
+
+       0
+
+       CYCLOHEXANOL
+
+       Fruit
+
+       --
+
+       --
+
+       Wealth of India.
+
+       0
+
+       FLAVONOIDS
+
+       Flower
+
+       4800.0
+
+       25000.0
+
+       -0.46
+
+       Wealth of India.
+
+       0
+
+       GALACTURONIC-ACID
+
+       Fruit
+
+       --
+
+       360.0
+
+       Wealth of India.
+
+       14
+
+       14
+
+       GAMMA-TOCOPHEROL
+
+       Oil
+
+       --
+
+       430.0
+
+       0.23
+
+       ANON. 1948-1976. The Wealth of India raw materials. Publications
+       and Information Directorate, CSIR, New Delhi. 11 volumes.
+
+       7
+
+       7
+
+       GOSSYPETIN
+
+       Flower
+
+       --
+
+       --
+
+       ANON. 1948-1976. The Wealth of India raw materials. Publications
+       and Information Directorate, CSIR, New Delhi. 11 volumes.
+
+       *Unless otherwise noted all references are to Duke, James A. 1992.
+       Handbook of phytochemical constituents of GRAS herbs and other
+       economic plants. Boca Raton, FL. CRC Press.
+
+   Data management services provided by National Agricultural Library
+
+   NAL Home | USDA.gov | Agricultural Research Service | Plain Language |
+   FOIA | Accessibility Statement Information Quality | Privacy Policy |
+   Non-Discrimination Statement | USA.gov | White House
+
+   v 1.9.12.6-Beta_2019-02-06
+
