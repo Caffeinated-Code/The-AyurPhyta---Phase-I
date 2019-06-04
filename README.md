@@ -1,4 +1,4 @@
-# The-AyurPhyta (tAP)
+# The AyurPhyta (tAP)
 
 ##Phase I:
 Data Retrieval from Primary Databases by leveraging APIs and in their absence, a combination of curl/wget requests and parsing with the help of RegEx and certain perl modules
